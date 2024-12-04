@@ -1,0 +1,99 @@
+#barDiv{
+
+    height: 200px;
+    position: relative;
+   background-image: url(top.jpg);
+   background-size: cover;
+   background-position: center;
+   margin-bottom: 20px;
+   color: white;
+ 
+   
+}
+
+#barDiv h2{
+    position:absolute;
+    margin-top: 150px;
+}
+body{
+    color: grey;
+    background-color: white;
+font-family: cursive;
+}
+#task{
+    background-color: transparent;
+      width: 50%;
+      min-height: 400px;
+      height: auto;
+      float: left;
+     
+}
+
+h3{
+    background-color: grey;
+    color: beige;
+    width: fit-content;
+    margin-left: 200px;
+    border-radius: 50px;
+}
+#addTask{
+float: left;
+height:400px;
+width: 40%;
+height: max-content;
+align-content: center;
+padding-top: 10px;
+
+
+
+}
+a{
+  font-size: larger;  
+   background-color: grey;
+    color: beige;
+    border-radius: 50px;
+ margin-left: 300px;
+ text-decoration: none;
+padding: 15px;
+ width: 200px;
+}
+#formDiv{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 230px;
+}
+textarea{
+    margin-top: 10px;
+    height: 100px;
+    width: 170px;
+    border: 2px solid grey;
+    border-radius: 20px;
+   padding-top: 5px;
+   padding-left: 2px;
+   margin-bottom: 10px;
+}
+input{
+    border: 2px solid grey;
+    border-radius: 20px; 
+    height: 25px;
+    margin-left: 0px;
+  
+}
+p{
+    font-size: large;
+    margin-right: 20px;
+}
+#submit{
+    background-color: grey;
+    color:beige ;
+    margin-left:  60px;
+align-content: center;   
+
+}
+#addTaskMain {
+margin-left: 90%;
+width:fit-content;
+position: absolute;
+margin-top: 130px;
+}
+
